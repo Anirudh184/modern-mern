@@ -1,8 +1,9 @@
 # modern-mern
 
 Stack Used:
-- React
-- ExpressJS
-- PostgreSQL
-- Mikro-ORM
-- Apollo Graphql
+- NextJs with chackra UI for frontend
+- ExpressJS for backend 
+- PostgreSQL for Database solution
+- Mikro-ORM for ORM
+- Apollo Graphql for API service
+- Redis for in memory storage
